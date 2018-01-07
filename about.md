@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Machine learning engineer at Scatterlab  
+Recently, I am developing a chatbot system  
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+More information is available at [here](https://www.linkedin.com/in/hanseokjo/)  
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[summatic@gmail.com](mailto:summatic@gmail.com)  
+[summatic@scatterlab.co.kr](mailto:summatic@scatterlab.co.kr)  
